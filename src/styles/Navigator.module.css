@@ -1,0 +1,17 @@
+.navigator {
+
+    background-color: #bbb;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: rgb(212, 8, 8);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+
+
+}
